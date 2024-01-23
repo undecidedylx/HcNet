@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e4e07f62-b187-49b9-8725-9af19277d40b" name="S2">
+        <fileTransfer rootFolder="/remote-home/hongzhangxin/pytorch_project" accessType="SFTP" host="172.19.184.168" port="20036" sshConfigId="d818cb49-2874-4d61-b8f9-80f191f620ee" sshConfig="root@172.19.184.168:20036 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
